@@ -7,13 +7,9 @@ Hi! My name is Artur Nowak. I am a Pole currently looking for a job as a Junior 
 ## &#x1f4c8; GitHub Stats
 <span align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=NowakArtur97&theme=darkhub&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&title=MultiLanguage,Commit,Repositories,Stars,Followers&column=5">
-</span>
-<span href="https://github.com/NowakArtur97/NowakArtur97">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NowakArtur97&show_icons=true&line_height=27&count_private=true&title_color=ffffff&theme=dark&text_color=c9cacc&icon_color=2bbc8a" alt="Nowak Artur's GitHub Stats" />
-</span>
-<span href="https://github.com/NowakArtur97/NowakArtur97">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NowakArtur97&theme=dark&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&langs_count=3" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NowakArtur97&theme=dark&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&langs_count=3" />
 </span>
 <span>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NowakArtur97&theme=dark&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=NowakArtur97&show_icons=true&line_height=27&count_private=true&title_color=ffffff&theme=dark&text_color=c9cacc&icon_color=2bbc8a" alt="Nowak Artur's GitHub Stats" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NowakArtur97&theme=dark&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </span>
